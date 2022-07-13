@@ -1,0 +1,3 @@
+<launch>
+    <node name = "limo_navigator_node" pkg="limo_navigator" type="navigate.py" output="screen"/>
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+    <node name = "limo_pov_node" pkg="limo_pov" type="limo_pov.py" output="screen"/>
+</launch>
